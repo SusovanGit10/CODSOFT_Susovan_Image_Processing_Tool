@@ -1,0 +1,10 @@
+# ninja log v7
+7	824	7982203772195914	Susovan_Image_Editor_autogen/timestamp	11505f54204102b5
+7	824	7982203772195914	Susovan_Image_Editor_autogen/mocs_compilation.cpp	11505f54204102b5
+7	824	7982203772195914	C:/Users/Susovan/VS Code C++ Tutorials/Susovan_Image_Editor/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/Susovan_Image_Editor_autogen/timestamp	11505f54204102b5
+7	824	7982203772195914	C:/Users/Susovan/VS Code C++ Tutorials/Susovan_Image_Editor/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/Susovan_Image_Editor_autogen/mocs_compilation.cpp	11505f54204102b5
+844	5453	7982203773275967	CMakeFiles/Susovan_Image_Editor.dir/imageview.cpp.obj	a2dd2a05bf5eaa3f
+835	5456	7982203773187580	CMakeFiles/Susovan_Image_Editor.dir/main.cpp.obj	81476e1b65e83a10
+830	5649	7982203773121619	CMakeFiles/Susovan_Image_Editor.dir/Susovan_Image_Editor_autogen/mocs_compilation.cpp.obj	e4dcd670d990c331
+839	6100	7982203773247081	CMakeFiles/Susovan_Image_Editor.dir/mainwindow.cpp.obj	b4b0d132c9fa87b3
+6100	6546	7982203825854672	Susovan_Image_Editor.exe	ab7de73c4d81893b
